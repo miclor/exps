@@ -1,3 +1,5 @@
+in.sh
+.vscode
 Step1_build/*
 build/
 # Prerequisites
